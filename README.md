@@ -1,1 +1,3 @@
-# Project_CvSwitchCalibration
+# Cv Switch Calibration
+
+calibrate a MusicTools cv switch to match a hardware device
