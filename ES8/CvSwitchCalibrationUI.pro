@@ -2,7 +2,7 @@ TARGET = CvSwitchCalibrationUI
 TEMPLATE = app
 
 CONFIG += audio
-include(../../../Base/GenericApp.pri)
+include(../../../Base/DesktopApp.pri)
 
 HEADERS += \
    MainWidget.h
